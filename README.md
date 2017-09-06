@@ -1,3 +1,7 @@
+### Synopsis
+
+Web App who consists of a form created with React. This form will take data from the user and register this data in a DataBase created with PostgreSql.
+This DataBase consists in 3 table related within them. After insert the data you can enter the database you prior created and see the data.
 
 ### Installing and creating a database
 
@@ -46,3 +50,16 @@ Go to your browser and in the web bar address type:
 > http://localhost:8080/
 
 ```
+
+### Usage
+
+Fill the form and click in register.
+After that you can enter your created database and type:
+
+```
+> select * from freelance;
+  select * from jobs;
+  select * from assignment;
+
+```
+to see the data inserted.
