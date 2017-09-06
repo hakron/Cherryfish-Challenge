@@ -1,11 +1,11 @@
 
-###Installing and creating a database
+### Installing and creating a database
 
 You can download and install Postgres from the PostgreSql website. For Mac users, it is strongly recommended that you choose the Postgres.app option. It is much easier than the other options.
 
 https://www.postgresql.org/download/
 
-Follow the instalation and whem you need to choose an user and a password type for both  ' postgres '.
+Follow the installation and when you need to choose an user and a password type for both  ' postgres '.
 
 After successful installation you can create a new database with the createdb command in the cmd.
 
@@ -40,7 +40,6 @@ If you are having problems with the user, use this command.
 ```
 ### Run the web-application
 
-If you dont have the
 Go to your browser and in the web bar address type:
 
 ```
